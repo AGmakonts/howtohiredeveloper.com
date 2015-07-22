@@ -4,19 +4,50 @@
    Author's custom styles
    ========================================================================== */
 
+body {
+    font-family: 'Roboto';
+}
 
+header {
+    width: 1000px;
+    text-align: center;
+    margin: 50px auto;
+}
 
+header p {
+    color: #8c8c8c;
+}
 
+h2 {
+    font-size: 36px;
+    font-weight: 300;
+    text-align: center;
+    border-bottom: 1px #8c8c8c solid;
+    padding-bottom: 0.5em;
+}
 
+h3 {
+    font-weight: bold;
+}
 
+p, h3 {
+    font-size: 14px;
+}
 
+p, section {
+    width: 700px;
+}
 
+p {
+    margin: 1em auto;
+}
 
+section {
+    margin: 100px auto;
+}
 
-
-
-
-
-
-
-
+h1 {
+    font-size: 78px;
+    font-weight: 100;
+    margin-bottom: 70px;
+}
